@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "alpharockops",
+    "description": "Alpharockops",
+    "slug": "alpharockops-slug",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/73304976_1337967653034164_7096785088376995840_n.png?_nc_cat=101&_nc_oc=AQlVhLQThANZp0sKOxH7-HnTFY751G3zVyIyZ4oW0rIRXTbtaDGUjvnIqiukN82Vka0&_nc_ht=scontent.fmnl4-2.fna&oh=3c9c55fb40720529b46b00cbcd9cf8aa&oe=5E4B6FEF",
+    "loading": {
+      "icon": "https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/73304976_1337967653034164_7096785088376995840_n.png?_nc_cat=101&_nc_oc=AQlVhLQThANZp0sKOxH7-HnTFY751G3zVyIyZ4oW0rIRXTbtaDGUjvnIqiukN82Vka0&_nc_ht=scontent.fmnl4-2.fna&oh=3c9c55fb40720529b46b00cbcd9cf8aa&oe=5E4B6FEF",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.alpha.rockops"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}

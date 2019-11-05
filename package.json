@@ -1,0 +1,18 @@
+{
+  "name": "react-navigation-examples",
+  "version": "0.0.0",
+  "description": "rmotr/react-navigation-examples @ Jan 24, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^35.0.0",
+    "expo-intent-launcher": "~7.0.0",
+    "expo-module-scripts": "^1.1.1",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "react-native-fetch": "^2.0.0",
+    "react-native-modal": "^11.4.0",
+    "react-navigation": "^2.18.0"
+  }
+}
